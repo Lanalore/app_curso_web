@@ -1,8 +1,0 @@
-fork do repositorio do Elvis
-git clone https://github.com/Lanalore/app_curso_web.git
-criar um arquivo
-git status
-----------------------------------------------------------------
-git add -A
-git commit -am "Criando o Primeiro Commit"
-git push origin aluno 
